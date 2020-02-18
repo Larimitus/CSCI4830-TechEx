@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+G:\My Drive\SoftEngi\CSCI4830-TechEx\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1433525372.index
+3344462779.index
+1990727947.index
+3204918901.index
+995298387.index
+2062177497.index
